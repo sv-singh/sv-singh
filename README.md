@@ -17,7 +17,7 @@ I'm currently studying Software Engineering at the University of Auckland 📚
 - 💬 &nbsp; Ask me about anything tech/gaming related;
 - 👨🏻‍💻 &nbsp; Check out my cool [website](https://svsingh.co.nz/)
 
-<br>
+
 
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/sv-singh/icons/main/java/java.svg"></a>
