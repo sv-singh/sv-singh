@@ -1,21 +1,21 @@
 ## Hey 👋, I'm SV Singh!
 
-I'm currently studying Software Engineering at the University of Auckland 📚
+I'm currently a Software Engineer for Fonterra/HCL Technologies 👨‍💻
 
 #### 📫 How to reach me:
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sv-singh/) &nbsp; <a href="mailto:svsingh.software@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp; [<img src="https://img.icons8.com/dusk/50/000000/domain.png" width="3.5%" />](https://www.svsingh.co.nz/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sv-dev/) &nbsp; <a href="mailto:svsingh.software@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp; [<img src="https://img.icons8.com/dusk/50/000000/domain.png" width="3.5%" />](https://www.svsingh.co.nz/)
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/sv-singh/sv-singh/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently a student 
-- 🤝 &nbsp; I’m looking to collaborate on different projects
-- 🌱 &nbsp; I’m currently learning TypeScript; 
-- 💬 &nbsp; Ask me about anything tech/gaming related;
-- 👨🏻‍💻 &nbsp; Check out my cool [website](https://svsingh.co.nz/)
+- 🔭 &nbsp; I’m currently a Software Engineer
+- 🤝 &nbsp; I’m looking to deliver on different projects
+- 🌱 &nbsp; I’m proficient at many technologies such as TypeScript
+- 💬 &nbsp; Ask me about anything tech related
+- 👨🏻‍💻 &nbsp; Check out my personal [website](https://svsingh.co.nz/)
 
 
 
